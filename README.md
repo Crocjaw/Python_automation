@@ -19,7 +19,7 @@ pip install requests tqdm
 
 To use the script, run it using Python 3.x and pass in the URL of the image or video, the type of file to download ("mp4" or "img"), and the desired name of the downloaded file as arguments. For example:
 
-python downloader.py https://example.com/image.jpg img picture.jpg
+`python downloader.py https://example.com/image.jpg img picture.jpg`
 
 
 Replace `<script_name>` with the name of the script file, `<url>` with the URL of the image or video, `<type>` with either "mp4" or "img", depending on the type of file you want to download, and `<name>` with the desired name of the downloaded file.
